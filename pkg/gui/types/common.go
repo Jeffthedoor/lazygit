@@ -1,11 +1,11 @@
 package types
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands/git_commands"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_commands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
 	"gopkg.in/ozeidan/fuzzy-patricia.v3/patricia"
 )
 

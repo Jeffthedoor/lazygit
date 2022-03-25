@@ -1,8 +1,8 @@
 package gui
 
 import (
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
 )
 
 const SEARCH_PREFIX = "search: "

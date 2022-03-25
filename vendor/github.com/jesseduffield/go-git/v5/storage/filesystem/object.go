@@ -6,14 +6,14 @@ import (
 	"os"
 	"time"
 
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	"github.com/jesseduffield/go-git/v5/plumbing/cache"
-	"github.com/jesseduffield/go-git/v5/plumbing/format/idxfile"
-	"github.com/jesseduffield/go-git/v5/plumbing/format/objfile"
-	"github.com/jesseduffield/go-git/v5/plumbing/format/packfile"
-	"github.com/jesseduffield/go-git/v5/plumbing/storer"
-	"github.com/jesseduffield/go-git/v5/storage/filesystem/dotgit"
-	"github.com/jesseduffield/go-git/v5/utils/ioutil"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/cache"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/format/idxfile"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/format/objfile"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/format/packfile"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/storer"
+	"github.com/Jeffthedoor/go-git/v5/storage/filesystem/dotgit"
+	"github.com/Jeffthedoor/go-git/v5/utils/ioutil"
 
 	"github.com/go-git/go-billy/v5"
 )

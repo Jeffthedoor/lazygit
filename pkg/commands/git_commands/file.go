@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/go-errors/errors"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type FileCommands struct {

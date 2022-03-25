@@ -1,8 +1,8 @@
 package traits
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type HasLength interface {

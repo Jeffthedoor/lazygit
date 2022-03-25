@@ -3,7 +3,7 @@ package mergeconflicts
 import (
 	"sync"
 
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type State struct {

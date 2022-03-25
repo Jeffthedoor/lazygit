@@ -3,7 +3,7 @@ package utils
 import (
 	"sort"
 
-	"github.com/jesseduffield/generics/slices"
+	"github.com/Jeffthedoor/generics/slices"
 	"github.com/sahilm/fuzzy"
 )
 

@@ -3,8 +3,8 @@ package gui
 import (
 	"fmt"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 func (gui *Gui) showUpdatePrompt(newVersion string) error {

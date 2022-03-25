@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 func (gui *Gui) handleCreateFilteringMenuPanel() error {

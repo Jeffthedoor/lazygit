@@ -3,7 +3,7 @@ package utils
 import (
 	"strings"
 
-	"github.com/jesseduffield/generics/slices"
+	"github.com/Jeffthedoor/generics/slices"
 	"github.com/mattn/go-runewidth"
 	"github.com/samber/lo"
 )

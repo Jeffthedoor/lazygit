@@ -1,8 +1,8 @@
 package helpers
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/commands"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 // Helper structs are for defining functionality that could be used by multiple contexts.

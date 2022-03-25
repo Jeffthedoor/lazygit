@@ -1,6 +1,6 @@
 package types
 
-import "github.com/jesseduffield/gocui"
+import "github.com/Jeffthedoor/gocui"
 
 // Binding - a keybinding mapping a key and modifier to a handler. The keypress
 // is only handled if the given view has focus, or handled globally if the view

@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/go-git/go-billy/v5"
-	"github.com/jesseduffield/go-git/v5/plumbing/format/config"
-	gioutil "github.com/jesseduffield/go-git/v5/utils/ioutil"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/format/config"
+	gioutil "github.com/Jeffthedoor/go-git/v5/utils/ioutil"
 )
 
 const (

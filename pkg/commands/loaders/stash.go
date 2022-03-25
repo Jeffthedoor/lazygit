@@ -5,11 +5,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type StashLoader struct {

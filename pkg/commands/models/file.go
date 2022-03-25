@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // File : A file from git status

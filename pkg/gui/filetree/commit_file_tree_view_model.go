@@ -3,9 +3,9 @@ package filetree
 import (
 	"sync"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/context/traits"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context/traits"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 	"github.com/sirupsen/logrus"
 )
 

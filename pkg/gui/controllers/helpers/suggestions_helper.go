@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/presentation"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
-	"github.com/jesseduffield/lazygit/pkg/utils"
-	"github.com/jesseduffield/minimal/gitignore"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/presentation"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/minimal/gitignore"
 	"gopkg.in/ozeidan/fuzzy-patricia.v3/patricia"
 )
 

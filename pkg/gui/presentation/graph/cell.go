@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/gookit/color"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
 )
 
 const (

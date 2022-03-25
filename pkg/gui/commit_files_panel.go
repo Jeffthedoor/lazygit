@@ -1,8 +1,8 @@
 package gui
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/controllers"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/controllers"
 )
 
 // TODO: do we need this?

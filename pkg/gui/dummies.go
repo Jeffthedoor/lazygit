@@ -1,11 +1,11 @@
 package gui
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands/git_config"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/updates"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_config"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/updates"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // NewDummyGui creates a new dummy GUI for testing

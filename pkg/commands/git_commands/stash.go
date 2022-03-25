@@ -3,8 +3,8 @@ package git_commands
 import (
 	"fmt"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/loaders"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/loaders"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
 )
 
 type StashCommands struct {

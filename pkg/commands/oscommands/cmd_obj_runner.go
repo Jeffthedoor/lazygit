@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/go-errors/errors"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 	"github.com/sirupsen/logrus"
 )
 

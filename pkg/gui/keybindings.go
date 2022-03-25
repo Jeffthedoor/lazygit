@@ -6,11 +6,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/constants"
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/controllers/helpers"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/constants"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/controllers/helpers"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 var keyMapReversed = map[gocui.Key]string{

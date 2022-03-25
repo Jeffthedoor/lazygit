@@ -5,10 +5,10 @@ import (
 	"math"
 	"strings"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_commands"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_commands"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 const HORIZONTAL_SCROLL_FACTOR = 3

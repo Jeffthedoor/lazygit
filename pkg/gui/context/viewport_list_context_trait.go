@@ -1,7 +1,7 @@
 package context
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // This embeds a list context trait and adds logic to re-render the viewport

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
 )
 
 func (gui *Gui) submodulesRenderToMain() error {

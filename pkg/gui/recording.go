@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/jesseduffield/gocui"
+	"github.com/Jeffthedoor/gocui"
 )
 
 func recordingEvents() bool {

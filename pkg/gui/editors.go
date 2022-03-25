@@ -3,7 +3,7 @@ package gui
 import (
 	"unicode"
 
-	"github.com/jesseduffield/gocui"
+	"github.com/Jeffthedoor/gocui"
 )
 
 func (gui *Gui) handleEditorKeypress(textArea *gocui.TextArea, key gocui.Key, ch rune, mod gocui.Modifier, allowMultiline bool) bool {

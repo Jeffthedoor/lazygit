@@ -3,7 +3,7 @@ package gui
 import (
 	"fmt"
 
-	"github.com/jesseduffield/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
 )
 
 func (gui *Gui) handleOpenSearch(viewName string) error {

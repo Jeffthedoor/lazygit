@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
 )
 
 // list panel functions

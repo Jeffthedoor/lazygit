@@ -1,6 +1,6 @@
 package lbl
 
-import "github.com/jesseduffield/lazygit/pkg/utils"
+import "github.com/Jeffthedoor/lazygit/pkg/utils"
 
 func calculateOrigin(currentOrigin int, bufferHeight int, firstLineIdx int, lastLineIdx int, selectedLineIdx int, mode selectMode) int {
 	needToSeeIdx, wantToSeeIdx := getNeedAndWantLineIdx(firstLineIdx, lastLineIdx, selectedLineIdx, mode)

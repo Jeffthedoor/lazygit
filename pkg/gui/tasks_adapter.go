@@ -5,8 +5,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/tasks"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/tasks"
 )
 
 func (gui *Gui) newCmdTask(view *gocui.View, cmd *exec.Cmd, prefix string) error {

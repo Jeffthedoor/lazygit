@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
 )
 
 type CommitCommands struct {

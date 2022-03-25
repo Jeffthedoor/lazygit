@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jesseduffield/go-git/v5/config"
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	"github.com/jesseduffield/go-git/v5/plumbing/object"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/sideband"
-	"github.com/jesseduffield/go-git/v5/plumbing/transport"
+	"github.com/Jeffthedoor/go-git/v5/config"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/object"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/sideband"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/transport"
 	"golang.org/x/crypto/openpgp"
 )
 

@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/creack/pty"
-	"github.com/jesseduffield/gocui"
+	"github.com/Jeffthedoor/gocui"
 )
 
 func (gui *Gui) desiredPtySize() *pty.Winsize {

@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // this takes something like:

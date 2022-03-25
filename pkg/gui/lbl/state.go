@@ -1,7 +1,7 @@
 package lbl
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands/patch"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/patch"
 	"github.com/sirupsen/logrus"
 )
 

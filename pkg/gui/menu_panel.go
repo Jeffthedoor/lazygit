@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
-	"github.com/jesseduffield/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
 )
 
 func (gui *Gui) getMenuOptions() map[string]string {

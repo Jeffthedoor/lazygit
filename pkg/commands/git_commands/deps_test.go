@@ -2,13 +2,13 @@ package git_commands
 
 import (
 	"github.com/go-errors/errors"
-	gogit "github.com/jesseduffield/go-git/v5"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_config"
-	"github.com/jesseduffield/lazygit/pkg/commands/loaders"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	gogit "github.com/Jeffthedoor/go-git/v5"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_config"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/loaders"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type commonDeps struct {

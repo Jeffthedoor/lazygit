@@ -3,8 +3,8 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 // this is in its own file given that the workspace controller file is already quite long

@@ -3,13 +3,13 @@ package gui
 import (
 	"log"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_commands"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/presentation"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_commands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/presentation"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 func (gui *Gui) menuListContext() *context.MenuContext {

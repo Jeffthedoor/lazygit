@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/aybabtme/humanlog"
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
 )
 
 func TailLogsForPlatform(logFilePath string, opts *humanlog.HandlerOptions) {

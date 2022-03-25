@@ -3,7 +3,7 @@ package context
 import (
 	"sync"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 const (

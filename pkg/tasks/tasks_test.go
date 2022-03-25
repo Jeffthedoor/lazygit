@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 func getCounter() (func(), func() int) {

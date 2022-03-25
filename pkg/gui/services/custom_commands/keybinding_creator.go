@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 // KeybindingCreator takes a custom command along with its handler and returns a corresponding keybinding

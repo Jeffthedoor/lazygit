@@ -9,15 +9,15 @@ import (
 
 	"github.com/go-errors/errors"
 
-	gogit "github.com/jesseduffield/go-git/v5"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_commands"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_config"
-	"github.com/jesseduffield/lazygit/pkg/commands/loaders"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/commands/patch"
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/env"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	gogit "github.com/Jeffthedoor/go-git/v5"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_commands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_config"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/loaders"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/patch"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/env"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // GitCommand is our main git interface

@@ -6,11 +6,11 @@ import (
 	"strings"
 
 	"github.com/go-errors/errors"
-	"github.com/jesseduffield/lazygit/pkg/i18n"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/i18n"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 	"github.com/sirupsen/logrus"
 
-	"github.com/jesseduffield/generics/slices"
+	"github.com/Jeffthedoor/generics/slices"
 )
 
 // This package is for handling logic specific to a git hosting service like github, gitlab, bitbucket, etc.

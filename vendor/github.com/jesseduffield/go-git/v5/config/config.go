@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/jesseduffield/go-git/v5/internal/url"
-	format "github.com/jesseduffield/go-git/v5/plumbing/format/config"
+	"github.com/Jeffthedoor/go-git/v5/internal/url"
+	format "github.com/Jeffthedoor/go-git/v5/plumbing/format/config"
 	"github.com/mitchellh/go-homedir"
 )
 

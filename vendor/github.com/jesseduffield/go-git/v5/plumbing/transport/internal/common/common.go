@@ -15,12 +15,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jesseduffield/go-git/v5/plumbing/format/pktline"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/capability"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/sideband"
-	"github.com/jesseduffield/go-git/v5/plumbing/transport"
-	"github.com/jesseduffield/go-git/v5/utils/ioutil"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/format/pktline"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/capability"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/sideband"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/transport"
+	"github.com/Jeffthedoor/go-git/v5/utils/ioutil"
 )
 
 const (

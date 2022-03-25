@@ -13,8 +13,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
 )
 
 type Test struct {

@@ -3,8 +3,8 @@ package git_commands
 import (
 	"path/filepath"
 
-	gogit "github.com/jesseduffield/go-git/v5"
-	"github.com/jesseduffield/lazygit/pkg/commands/types/enums"
+	gogit "github.com/Jeffthedoor/go-git/v5"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/types/enums"
 )
 
 type StatusCommands struct {

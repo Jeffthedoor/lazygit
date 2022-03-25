@@ -1,10 +1,10 @@
 package context
 
 import (
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui/presentation"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/presentation"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 type MenuContext struct {

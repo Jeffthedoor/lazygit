@@ -1,9 +1,9 @@
 package presentation
 
 import (
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
 )
 
 func GetRemoteBranchListDisplayStrings(branches []*models.RemoteBranch, diffName string) [][]string {

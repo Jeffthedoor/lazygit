@@ -1,8 +1,8 @@
 package git_commands
 
 import (
-	"github.com/jesseduffield/generics/maps"
-	"github.com/jesseduffield/generics/slices"
+	"github.com/Jeffthedoor/generics/maps"
+	"github.com/Jeffthedoor/generics/slices"
 	"github.com/sirupsen/logrus"
 )
 

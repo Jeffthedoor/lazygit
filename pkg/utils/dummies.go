@@ -3,9 +3,9 @@ package utils
 import (
 	"io/ioutil"
 
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/i18n"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/i18n"
 	"github.com/sirupsen/logrus"
 )
 

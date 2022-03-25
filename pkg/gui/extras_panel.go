@@ -3,9 +3,9 @@ package gui
 import (
 	"io"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 func (gui *Gui) handleCreateExtrasMenuPanel() error {

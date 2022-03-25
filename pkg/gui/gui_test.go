@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	"github.com/creack/pty"
-	"github.com/jesseduffield/lazygit/pkg/integration"
+	"github.com/Jeffthedoor/lazygit/pkg/integration"
 	"github.com/stretchr/testify/assert"
 )
 

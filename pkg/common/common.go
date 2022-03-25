@@ -1,8 +1,8 @@
 package common
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/i18n"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/i18n"
 	"github.com/sirupsen/logrus"
 )
 

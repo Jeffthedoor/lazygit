@@ -1,7 +1,7 @@
 package config
 
 import (
-	yaml "github.com/jesseduffield/yaml"
+	yaml "github.com/Jeffthedoor/yaml"
 )
 
 // NewDummyAppConfig creates a new dummy AppConfig for testing

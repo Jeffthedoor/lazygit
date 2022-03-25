@@ -1,6 +1,6 @@
 package filetree
 
-import "github.com/jesseduffield/generics/set"
+import "github.com/Jeffthedoor/generics/set"
 
 type CollapsedPaths struct {
 	collapsedPaths *set.Set[string]

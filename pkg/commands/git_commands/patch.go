@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/go-errors/errors"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/commands/patch"
-	"github.com/jesseduffield/lazygit/pkg/commands/types/enums"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/patch"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/types/enums"
 )
 
 type PatchCommands struct {

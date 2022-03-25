@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
 	"github.com/mgutz/str"
 )
 

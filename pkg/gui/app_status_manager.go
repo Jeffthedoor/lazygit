@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 type appStatus struct {

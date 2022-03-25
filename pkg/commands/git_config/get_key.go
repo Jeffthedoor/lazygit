@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
 )
 
 // including license from https://github.com/tcnksm/go-gitconfig because this file is an adaptation of that repo's code

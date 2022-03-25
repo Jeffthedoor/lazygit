@@ -3,8 +3,8 @@ package gui
 import (
 	"testing"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
 	"github.com/stretchr/testify/assert"
 )
 

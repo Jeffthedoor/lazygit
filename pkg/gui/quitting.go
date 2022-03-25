@@ -3,8 +3,8 @@ package gui
 import (
 	"os"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 // when a user runs lazygit with the LAZYGIT_NEW_DIR_FILE env variable defined

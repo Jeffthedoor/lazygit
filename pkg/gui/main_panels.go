@@ -3,8 +3,8 @@ package gui
 import (
 	"os/exec"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 type viewUpdateOpts struct {

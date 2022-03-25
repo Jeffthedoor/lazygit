@@ -2,8 +2,8 @@ package theme
 
 import (
 	"github.com/gookit/color"
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 var gocuiColorMap = map[string]gocui.Attribute{

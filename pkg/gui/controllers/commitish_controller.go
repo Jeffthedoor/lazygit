@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 // This controller is for all contexts that contain commit files.

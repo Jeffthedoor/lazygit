@@ -3,8 +3,8 @@ package gui
 import (
 	"fmt"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 	"github.com/spkg/bom"
 )
 

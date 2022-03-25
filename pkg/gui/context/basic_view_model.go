@@ -1,6 +1,6 @@
 package context
 
-import "github.com/jesseduffield/lazygit/pkg/gui/context/traits"
+import "github.com/Jeffthedoor/lazygit/pkg/gui/context/traits"
 
 type BasicViewModel[T any] struct {
 	*traits.ListCursor

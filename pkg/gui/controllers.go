@@ -3,12 +3,12 @@ package gui
 import (
 	"strings"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/controllers"
-	"github.com/jesseduffield/lazygit/pkg/gui/controllers/helpers"
-	"github.com/jesseduffield/lazygit/pkg/gui/modes/cherrypicking"
-	"github.com/jesseduffield/lazygit/pkg/gui/services/custom_commands"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/controllers"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/controllers/helpers"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/modes/cherrypicking"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/services/custom_commands"
 )
 
 func (gui *Gui) resetControllers() {

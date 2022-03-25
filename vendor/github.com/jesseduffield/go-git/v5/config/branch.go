@@ -3,8 +3,8 @@ package config
 import (
 	"errors"
 
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	format "github.com/jesseduffield/go-git/v5/plumbing/format/config"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	format "github.com/Jeffthedoor/go-git/v5/plumbing/format/config"
 )
 
 var (

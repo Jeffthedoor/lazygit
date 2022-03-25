@@ -3,8 +3,8 @@ package gui
 import (
 	"errors"
 
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 var CONTEXT_KEYS_SHOWING_DIFFS = []types.ContextKey{

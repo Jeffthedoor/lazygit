@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 func (gui *Gui) handleCommitMessageFocused() error {

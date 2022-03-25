@@ -4,9 +4,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
 	"github.com/samber/lo"
 	"github.com/sirupsen/logrus"
 )

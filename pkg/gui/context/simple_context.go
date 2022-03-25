@@ -1,7 +1,7 @@
 package context
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 type SimpleContext struct {

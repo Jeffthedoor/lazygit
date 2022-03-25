@@ -1,6 +1,6 @@
 package gui
 
-import "github.com/jesseduffield/lazygit/pkg/commands/models"
+import "github.com/Jeffthedoor/lazygit/pkg/commands/models"
 
 // this file is to put things where it's not obvious where they belong while this refactor takes place
 

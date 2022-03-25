@@ -4,14 +4,14 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/jesseduffield/generics/set"
-	"github.com/jesseduffield/lazygit/pkg/commands/git_commands"
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/gui/presentation/authors"
-	"github.com/jesseduffield/lazygit/pkg/gui/presentation/graph"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/theme"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/generics/set"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/git_commands"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/presentation/authors"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/presentation/graph"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/theme"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 	"github.com/kyokomi/emoji/v2"
 )
 

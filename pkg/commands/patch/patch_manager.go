@@ -4,8 +4,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jesseduffield/generics/maps"
-	"github.com/jesseduffield/generics/slices"
+	"github.com/Jeffthedoor/generics/maps"
+	"github.com/Jeffthedoor/generics/slices"
 	"github.com/samber/lo"
 	"github.com/sirupsen/logrus"
 )

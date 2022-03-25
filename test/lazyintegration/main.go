@@ -7,11 +7,11 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui"
-	"github.com/jesseduffield/lazygit/pkg/gui/style"
-	"github.com/jesseduffield/lazygit/pkg/integration"
-	"github.com/jesseduffield/lazygit/pkg/secureexec"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/style"
+	"github.com/Jeffthedoor/lazygit/pkg/integration"
+	"github.com/Jeffthedoor/lazygit/pkg/secureexec"
 )
 
 // this program lets you manage integration tests in a TUI.

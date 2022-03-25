@@ -2,8 +2,8 @@ package gui
 
 import (
 	"github.com/go-errors/errors"
-	"github.com/jesseduffield/lazygit/pkg/commands/patch"
-	"github.com/jesseduffield/lazygit/pkg/gui/lbl"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/patch"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/lbl"
 )
 
 // Currently there are two 'pseudo-panels' that make use of this 'pseudo-panel'.

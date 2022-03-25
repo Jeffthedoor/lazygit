@@ -3,7 +3,7 @@ package models
 import (
 	"fmt"
 
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // Commit : A git commit

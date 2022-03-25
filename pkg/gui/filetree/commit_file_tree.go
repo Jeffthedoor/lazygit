@@ -1,7 +1,7 @@
 package filetree
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
 	"github.com/sirupsen/logrus"
 )
 

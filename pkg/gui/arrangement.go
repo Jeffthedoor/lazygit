@@ -1,10 +1,10 @@
 package gui
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/gui/boxlayout"
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/boxlayout"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 const INFO_SECTION_PADDING = " "

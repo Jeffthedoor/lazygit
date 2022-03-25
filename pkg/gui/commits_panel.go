@@ -1,8 +1,8 @@
 package gui
 
 import (
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // after selecting the 200th commit, we'll load in all the rest

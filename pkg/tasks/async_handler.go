@@ -3,7 +3,7 @@ package tasks
 import (
 	"sync"
 
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // the purpose of an AsyncHandler is to ensure that if we have multiple long-running

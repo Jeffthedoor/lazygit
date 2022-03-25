@@ -4,7 +4,7 @@ package loaders
 import (
 	"testing"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/models"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/models"
 	"github.com/stretchr/testify/assert"
 )
 

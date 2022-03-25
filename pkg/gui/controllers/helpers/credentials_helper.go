@@ -3,8 +3,8 @@ package helpers
 import (
 	"sync"
 
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 type CredentialsHelper struct {

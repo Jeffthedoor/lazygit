@@ -4,9 +4,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/capability"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/sideband"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/capability"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/sideband"
 )
 
 var (

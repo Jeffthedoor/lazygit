@@ -3,9 +3,9 @@ package git_commands
 import (
 	"sync"
 
-	gogit "github.com/jesseduffield/go-git/v5"
-	"github.com/jesseduffield/lazygit/pkg/commands/oscommands"
-	"github.com/jesseduffield/lazygit/pkg/common"
+	gogit "github.com/Jeffthedoor/go-git/v5"
+	"github.com/Jeffthedoor/lazygit/pkg/commands/oscommands"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
 )
 
 type GitCommon struct {

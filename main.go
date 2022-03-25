@@ -10,11 +10,11 @@ import (
 
 	"github.com/go-errors/errors"
 	"github.com/integrii/flaggy"
-	"github.com/jesseduffield/lazygit/pkg/app"
-	"github.com/jesseduffield/lazygit/pkg/config"
-	"github.com/jesseduffield/lazygit/pkg/constants"
-	"github.com/jesseduffield/lazygit/pkg/env"
-	yaml "github.com/jesseduffield/yaml"
+	"github.com/Jeffthedoor/lazygit/pkg/app"
+	"github.com/Jeffthedoor/lazygit/pkg/config"
+	"github.com/Jeffthedoor/lazygit/pkg/constants"
+	"github.com/Jeffthedoor/lazygit/pkg/env"
+	yaml "github.com/Jeffthedoor/yaml"
 )
 
 var (

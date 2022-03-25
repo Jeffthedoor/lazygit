@@ -6,7 +6,7 @@ package gui
 import (
 	"os/exec"
 
-	"github.com/jesseduffield/gocui"
+	"github.com/Jeffthedoor/gocui"
 )
 
 func (gui *Gui) onResize() error {

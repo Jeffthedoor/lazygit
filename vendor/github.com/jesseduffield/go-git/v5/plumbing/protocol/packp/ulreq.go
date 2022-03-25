@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	"github.com/jesseduffield/go-git/v5/plumbing/protocol/packp/capability"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/protocol/packp/capability"
 )
 
 // UploadRequest values represent the information transmitted on a

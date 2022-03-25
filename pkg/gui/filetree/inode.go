@@ -1,6 +1,6 @@
 package filetree
 
-import "github.com/jesseduffield/generics/slices"
+import "github.com/Jeffthedoor/generics/slices"
 
 type INode interface {
 	IsNil() bool

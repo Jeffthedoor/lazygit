@@ -12,9 +12,9 @@ import (
 	"github.com/go-errors/errors"
 
 	"github.com/atotto/clipboard"
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/lazygit/pkg/common"
-	"github.com/jesseduffield/lazygit/pkg/utils"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/lazygit/pkg/common"
+	"github.com/Jeffthedoor/lazygit/pkg/utils"
 )
 
 // OSCommand holds all the os commands

@@ -5,9 +5,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/jesseduffield/go-git/v5/plumbing"
-	"github.com/jesseduffield/go-git/v5/plumbing/filemode"
-	"github.com/jesseduffield/go-git/v5/utils/merkletrie/noder"
+	"github.com/Jeffthedoor/go-git/v5/plumbing"
+	"github.com/Jeffthedoor/go-git/v5/plumbing/filemode"
+	"github.com/Jeffthedoor/go-git/v5/utils/merkletrie/noder"
 
 	"github.com/go-git/go-billy/v5"
 )

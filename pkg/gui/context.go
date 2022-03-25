@@ -6,11 +6,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jesseduffield/generics/maps"
-	"github.com/jesseduffield/generics/slices"
-	"github.com/jesseduffield/gocui"
-	"github.com/jesseduffield/lazygit/pkg/gui/context"
-	"github.com/jesseduffield/lazygit/pkg/gui/types"
+	"github.com/Jeffthedoor/generics/maps"
+	"github.com/Jeffthedoor/generics/slices"
+	"github.com/Jeffthedoor/gocui"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/context"
+	"github.com/Jeffthedoor/lazygit/pkg/gui/types"
 )
 
 func (gui *Gui) popupViewNames() []string {

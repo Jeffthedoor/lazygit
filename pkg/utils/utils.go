@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jesseduffield/gocui"
+	"github.com/Jeffthedoor/gocui"
 )
 
 // GetCurrentRepoName gets the repo's base name
